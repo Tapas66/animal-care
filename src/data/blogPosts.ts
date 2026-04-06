@@ -17,7 +17,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Investigate the impact of the fashion industry on animals and discover ethical alternatives to animal-derived materials.',
     content: 'The fashion industry has long relied on animal products, often obtained through cruel practices...',
     author: 'Vedant Jha ',
-    date: '2026-01-26',
+    date: '2026-02-26',
     readTime: '6 min',
     image: 'https://images.pexels.com/photos/128817/pexels-photo-128817.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Fashion'
@@ -28,7 +28,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Uncover the harsh realities of industrial farming and learn how your food choices can make a difference for animal welfare.',
     content: 'Factory farming represents one of the most widespread forms of animal cruelty in modern society...',
     author: 'Swadha Shubhangi',
-    date: '2026-01-26',
+    date: '2026-02-26',
     readTime: '8 min',
     image: 'https://images.pexels.com/photos/422218/pexels-photo-422218.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Investigation'
@@ -39,7 +39,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Learn about the plight of street animals worldwide and how communities are working together to help them.',
     content: 'Street animals face countless challenges in their daily struggle for survival...',
     author: 'Priyanshu Prasad',
-    date: '2026-01-26',
+    date: '2026-02-26',
     readTime: '5 min',
     image: 'https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Community' 
@@ -50,7 +50,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Explore the world of animal testing, its ethical implications, and the promising alternatives being developed.',
     content: 'Animal testing remains one of the most controversial aspects of scientific research...',
     author: 'Mohank Saini',
-    date: '2026-01-26',
+    date: '2026-02-26',
     readTime: '9 min',
     image: 'https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Science'
