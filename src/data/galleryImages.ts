@@ -16,7 +16,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Rescue',
     location: 'Local Shelter',
-    date: '2025-08-15'
+    date: '2026-01-26'
   },
   {
     id: '2',
@@ -25,7 +25,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/133459/pexels-photo-133459.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Wildlife',
     location: 'Nature Reserve',
-    date: '2025-08-18'
+    date: '2026-01-26'
   },
   {
     id: '3',
@@ -34,7 +34,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Education',
     location: 'Community Center',
-    date: '2025-08-15'
+    date: '2026-01-26'
   },
   {
     id: '4',
@@ -43,7 +43,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/422218/pexels-photo-422218.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Sanctuary',
     location: 'Farm Sanctuary',
-    date: '2025-08-16'
+    date: '2026-01-26'
   },
   {
     id: '5',
@@ -52,7 +52,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/5731895/pexels-photo-5731895.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Volunteers',
     location: 'Training Center',
-    date: '2025-08-16'
+    date: '2026-01-26'
   },
   {
     id: '6',
@@ -61,7 +61,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/3608263/pexels-photo-3608263.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Wildlife',
     location: 'Coastal Area',
-    date: '2025-08-14'
+    date: '2026-01-26'
   },
   {
     id: '7',
@@ -70,7 +70,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/1254140/pexels-photo-1254140.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Adoption',
     location: 'Adoption Center',
-    date: '2025-08-15'
+    date: '2026-01-26'
   },
   {
     id: '8',
@@ -79,7 +79,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Rescue',
     location: 'Disaster Zone',
-    date: '2025-08-16'
+    date: '2026-01-26'
   },
   {
     id: '9',
@@ -88,7 +88,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/6235234/pexels-photo-6235234.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Medical',
     location: 'Mobile Clinic',
-    date: '2025-08-15'
+    date: '2026-01-26'
   },
   {
     id: '10',
@@ -97,7 +97,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/8728380/pexels-photo-8728380.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Advocacy',
     location: 'City Center',
-    date: '2025-08-13'
+    date: '2026-01-26'
   },
   {
     id: '11',
@@ -106,7 +106,7 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/7516366/pexels-photo-7516366.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Volunteers',
     location: 'Animal Shelter',
-    date: '2025-08-17'
+    date: '2026-01-26'
   },
   {
     id: '12',
@@ -115,6 +115,6 @@ export const galleryImages: GalleryImage[] = [
     image: 'https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=800',
     category: 'Research',
     location: 'Research Facility',
-    date: '2025-08-14'
+    date: '2026-01-26'
   }
 ];
